@@ -1,4 +1,4 @@
-### Hi there I'm Miho Hamanaka 🐈✨✨
+### Hi there, I'm Miho Hamanaka 🐈✨✨
 
 - ✨ I’m currently working as a designer at [SEEC/Tokyo](https://se-ec.co.jp/).
 - 🌱 I’m currently learning PHP.
