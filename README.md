@@ -2,7 +2,7 @@
 
 - ✨ I’m currently working as a designer at [SEEC/Tokyo](https://se-ec.co.jp/). Joined working here on April 1, 2020.
 - 🌱 I’m currently learning PHP.
-- 🌻 Fun fact: yoga🧘, cat🐈, wine🍷, sweets🍰
+- 🌻 Fun fact: yoga🧘, trip abroad🌏, photography📷, cat🐈, wine🍷, sweets🍰
 
 <a href="https://github.com/miho-hamanaka">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=miho-hamanaka&count_private=true&show_icons=true" />
