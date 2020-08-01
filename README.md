@@ -1,7 +1,6 @@
 ### Hi there, I'm Miho Hamanaka 🐈✨✨
 
-- ✨ I’m currently working as a designer at [SEEC/Tokyo](https://se-ec.co.jp/).
-  　 Joined working here on April 1, 2020.
+- ✨ I’m currently working as a designer at [SEEC/Tokyo](https://se-ec.co.jp/). Joined working here on April 1, 2020.
 - 🌱 I’m currently learning PHP.
 - 🌻 Fun fact: yoga🧘, cat🐈, wine🍷, sweets🍰
 
